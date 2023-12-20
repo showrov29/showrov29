@@ -48,7 +48,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=showrov29&show_icons=true&locale=en" alt="showrov29" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=showrov29&" alt="showrov29" /></p>
 
-😂 Random Dev Meme
-<div align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>

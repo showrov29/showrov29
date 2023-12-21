@@ -28,7 +28,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=showrov29" alt="showrov29" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/@showrov29" target="blank"><img src="https://img.shields.io/twitter/follow/@showrov29?logo=twitter&style=for-the-badge" alt="@showrov29" /></a> </p>
 
